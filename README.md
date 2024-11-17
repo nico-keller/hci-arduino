@@ -78,14 +78,5 @@ Ensure all connections match the configuration outlined in the code. Key pins in
 - Relay: Pin 3
 
 ![Smart Ventilator Prototype](arduino.png)
-  
 
----
-
-## Key Functions
-### Motion Detection
-The PIR sensor detects movement and activates the fan system.
-```cpp
-bool detectMotion() {
-  return digitalRead(pirPin) == HIGH;
 }
