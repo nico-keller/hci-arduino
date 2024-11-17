@@ -1,7 +1,7 @@
 # Smart Ventilator Prototype
 
 ## Overview
-The **Smart Ventilator Prototype** is a next-generation fan system designed to improve personal comfort and energy efficiency. By integrating motion detection, distance sensors, temperature control, and manual override capabilities, the fan automatically adjusts airflow direction based on user presence and environmental conditions. 
+The **Smart Ventilator Prototype** is a next-generation fan system designed to improve personal comfort and energy efficiency. By integrating motion detection, distance sensors, and manual override capabilities, the fan automatically adjusts airflow direction based on user presence and environmental conditions. 
 
 This project demonstrates the use of hardware and software to create a functional prototype aimed at optimizing personal climate control in dynamic environments like shared workspaces or homes.
 
