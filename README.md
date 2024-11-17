@@ -79,4 +79,4 @@ Ensure all connections match the configuration outlined in the code. Key pins in
 
 ![Smart Ventilator Prototype](arduino.png)
 
-}
+
