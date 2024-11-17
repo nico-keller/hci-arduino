@@ -77,6 +77,7 @@ Ensure all connections match the configuration outlined in the code. Key pins in
 - Ultrasonic sensors: Trigger/Echo Pins 5/4 and 7/6
 - Relay: Pin 3
 
+![Smart Ventilator Prototype](arduino.png)
   
 
 ---
