@@ -9,7 +9,7 @@ This project demonstrates the use of hardware and software to create a functiona
 
 ## Features
 - **Automatic Mode**: Detects motion and adjusts airflow direction towards the nearest person.
-- **Energy Efficiency**: Operates only when motion is detected, the environment is sufficiently lit, and the temperature is above 18°C.
+- **Energy Efficiency**: Operates only when motion is detected.
 - **Manual Mode**: Allows users to manually control fan direction and speed using a joystick.
 - **Adaptive Design**: Uses servo and stepper motors for smooth directional adjustments.
 
